@@ -43,7 +43,7 @@ colors:
 
 services:
   - name: "//GitHub"
-    icon: "fas fa-github"
+    icon: "fa-brands fa-github"
     items:
       - name: "Homer Theme"
         logo: "assets/tools/walkx.png" # Change github.png to the name of your own custom icon!
@@ -54,7 +54,7 @@ services:
         target: "_blank"
 
   - name: "//Reddit"
-    icon: "fas fa-reddit"
+    icon: "fa-brands fa-reddit"
     items:
       - name: "The original reddit post!"
         logo: "assets/tools/reddit.png"
